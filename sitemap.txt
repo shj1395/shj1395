@@ -1,8 +1,8 @@
-http://hackcat.com/year/02/17/test%E5%9B%BE%E7%89%87/
-http://hackcat.com/music/index.html
-http://hackcat.com/chart/index.html
-http://hackcat.com/about/index.html
-http://hackcat.com/tags/index.html
-http://hackcat.com/archives/index.html
-http://hackcat.com/categories/index.html
-http://hackcat.com/
+https://shj1395.github.io/year/02/17/test%E5%9B%BE%E7%89%87/
+https://shj1395.github.io/music/index.html
+https://shj1395.github.io/chart/index.html
+https://shj1395.github.io/about/index.html
+https://shj1395.github.io/tags/index.html
+https://shj1395.github.io/archives/index.html
+https://shj1395.github.io/categories/index.html
+https://shj1395.github.io/
