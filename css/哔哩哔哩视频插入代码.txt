@@ -1,0 +1,20 @@
+修改aid即可
+
+<div align=center class="aspect-ratio">
+    <iframe src="https://player.bilibili.com/player.html?aid=474023258&&page=1&as_wide=1&high_quality=1&danmaku=0" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    high_quality=1
+    danmaku=1 
+    allowfullscreen="true"> 
+    </iframe>
+</div>
+
+
+在你的 md 文章页中，部分内容不想经过 Hexo 渲染，则包一层 raw 标签：
+{% raw %}
+<div class="">你的一些代码...</div>
+<script>你的一些代码...</script>
+{% endraw %}
